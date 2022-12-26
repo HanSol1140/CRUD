@@ -5,7 +5,7 @@
   SI.VILLAGE홈페이지를 통한 회원가입, 로그인, 회원탈퇴, 게시글 업로드, 게시글 확인기능 구현<br>
 
 # 개발 환경
-  IDE<br>
+&nbsp;&nbsp;IDE<br>
   Oracle<br>
   java 1.8(jdk 1.8)<br>
   apache-tomcat-8.5.78<br>
