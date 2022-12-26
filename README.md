@@ -23,7 +23,7 @@
     회원가입
     
       회원가입 전 회원DB
-      ![1](https://user-images.githubusercontent.com/121269266/209490715-2b5eeaa5-19f9-44af-8994-195bb0f421c4.png)
+      ![1](https://user-images.githubusercontent.com/121269266/209489273-c022cc8a-45c4-465d-afe7-8d35886ecefb.png)
 
 
       
