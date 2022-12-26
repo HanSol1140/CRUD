@@ -23,12 +23,12 @@
     회원가입
     
       회원가입 전 회원DB
-      <img src="https://user-images.githubusercontent.com/121269266/209489273-c022cc8a-45c4-465d-afe7-8d35886ecefb.png">
+      
 
 
       
       회원가입 시연
-      ![회원가입](https://user-images.githubusercontent.com/121269266/209490652-78de82da-3fc6-40bc-941a-bc3434ee3ed8.gif)
+      https://user-images.githubusercontent.com/121269266/209490652-78de82da-3fc6-40bc-941a-bc3434ee3ed8.gif
       
       
       회원가입 후 회원 DB
