@@ -1,5 +1,5 @@
 
-# CRUD 조별 JAVA 프로젝트
+# CRUD 팀 프로젝트
 # 개요
 &nbsp;&nbsp;&nbsp;  JSP와 OracleDB를 이용한 홈페이지 CRUD구현<br>
 &nbsp;&nbsp;&nbsp;  SI.VILLAGE홈페이지를 통한 회원가입, 로그인, 회원탈퇴, 게시글 업로드, 게시글 확인기능 구현<br>
