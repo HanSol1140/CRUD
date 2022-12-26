@@ -32,7 +32,8 @@
 #### 로그인, 회원탈퇴<br>
   ![로그인_회원탈퇴](https://user-images.githubusercontent.com/121269266/209492530-05fac81f-d773-4255-9150-e77b34533ec2.gif)<br><br>
   
-#### 게시글(
+#### 게시글(문의) 등록
+  ![문의등록](https://user-images.githubusercontent.com/121269266/209493468-5248ca7f-0a33-44b8-8f08-ec6018a9d491.gif)
 
 
 
