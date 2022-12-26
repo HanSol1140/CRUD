@@ -18,7 +18,7 @@
   5. 게시글 답글 달기
   
 # 6. 프로젝트 시연 => 동영상
-1. 회원가입, 회원탈퇴<br>
+## 회원가입, 회원탈퇴<br>
   회원가입 전 DB 확인<br>
   ![1](https://user-images.githubusercontent.com/121269266/209490911-d5d79513-4833-4302-ab43-63b9e6bce1c2.png)<br><br>
   
