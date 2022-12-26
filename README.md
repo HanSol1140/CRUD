@@ -22,7 +22,7 @@
 #### &nbsp;&nbsp;회원가입 전 DB 확인<br>
   ![1](https://user-images.githubusercontent.com/121269266/209490911-d5d79513-4833-4302-ab43-63b9e6bce1c2.png)<br><br>
   
-#### &nbsp;&nbsp;회원가입 영상<br>
+#### &nbsp;&nbsp;회원가입<br>
   ![회원가입](https://user-images.githubusercontent.com/121269266/209491055-1e657377-c3c8-4e33-ac8e-9a1badb13f5d.gif)<br><br>
 
 #### &nbsp;&nbsp;회원가입 후 DB 확인<br>
