@@ -29,7 +29,11 @@
 #### 회원가입 후 DB 확인<br>
   ![2](https://user-images.githubusercontent.com/121269266/209491083-e5fe4794-59b2-49d0-9c78-f164a2712999.png)<br><br>
   
-#### 회원탈퇴 영상
+#### 로그인, 회원탈퇴<br>
+  ![로그인_회원탈퇴](https://user-images.githubusercontent.com/121269266/209492530-05fac81f-d773-4255-9150-e77b34533ec2.gif)<br><br>
+  
+#### 게시글(
+
 
 
 
