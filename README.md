@@ -35,4 +35,5 @@
   ![문의등록](https://user-images.githubusercontent.com/121269266/209493468-5248ca7f-0a33-44b8-8f08-ec6018a9d491.gif)
   
 #### &nbsp;&nbsp;게시글 답글쓰기, 수정, 삭제
-  ![답글수정삭제](https://user-images.githubusercontent.com/121269266/209494064-c75741e8-2100-455f-95f1-3a70aaa7c861.gif)
+  ![답글수정삭제](https://user-images.githubusercontent.com/121269266/209494163-59ca787d-8187-45f1-86df-a3cfbcea1aea.gif)
+
