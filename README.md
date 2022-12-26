@@ -19,27 +19,20 @@
   
 # 기능구현 미리보기
 
-### 1. 회원가입, 회원탈퇴<br>
-#### 회원가입 전 DB 확인<br>
+#### &nbsp;&nbsp;회원가입 전 DB 확인<br>
   ![1](https://user-images.githubusercontent.com/121269266/209490911-d5d79513-4833-4302-ab43-63b9e6bce1c2.png)<br><br>
   
-#### 회원가입 영상<br>
+#### &nbsp;&nbsp;회원가입 영상<br>
   ![회원가입](https://user-images.githubusercontent.com/121269266/209491055-1e657377-c3c8-4e33-ac8e-9a1badb13f5d.gif)<br><br>
 
-#### 회원가입 후 DB 확인<br>
+#### &nbsp;&nbsp;회원가입 후 DB 확인<br>
   ![2](https://user-images.githubusercontent.com/121269266/209491083-e5fe4794-59b2-49d0-9c78-f164a2712999.png)<br><br>
   
-#### 로그인, 회원탈퇴<br>
+#### &nbsp;&nbsp;로그인, 회원탈퇴<br>
   ![로그인_회원탈퇴](https://user-images.githubusercontent.com/121269266/209492530-05fac81f-d773-4255-9150-e77b34533ec2.gif)<br><br>
   
-#### 게시글(문의) 등록
+#### &nbsp;&nbsp;게시글(문의) 등록
   ![문의등록](https://user-images.githubusercontent.com/121269266/209493468-5248ca7f-0a33-44b8-8f08-ec6018a9d491.gif)
-
-
-
-
   
-# 3. DB 구조 / 구성
-# 4. Work-Flow
-# 5. 추가 설명 텍스트
-
+#### &nbsp;&nbsp;게시글 답글쓰기, 수정, 삭제
+  ![답글수정삭제](https://user-images.githubusercontent.com/121269266/209494064-c75741e8-2100-455f-95f1-3a70aaa7c861.gif)
