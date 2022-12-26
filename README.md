@@ -20,20 +20,8 @@
   
 # 6. 프로젝트 시연 => 동영상
   1. 회원가입, 회원탈퇴
-    
-    회원가입
-    
-      회원가입 전 회원DB
-      
+  ![1](https://user-images.githubusercontent.com/121269266/209490911-d5d79513-4833-4302-ab43-63b9e6bce1c2.png)
 
-
-      
-      회원가입 시연
-      https://user-images.githubusercontent.com/121269266/209490652-78de82da-3fc6-40bc-941a-bc3434ee3ed8.gif
-      
-      
-      회원가입 후 회원 DB
-      ![2](https://user-images.githubusercontent.com/121269266/209490723-b113316b-fbad-4fda-947a-f369e43db51f.png)
 
 
   
