@@ -6,10 +6,10 @@
 
 
 # 2. 개발 환경
-  IDE
-  Oracle
-  java 1.8(jdk 1.8)
-  apache-tomcat-8.5.78
+  IDE<br>
+  Oracle<br>
+  java 1.8(jdk 1.8)<br>
+  apache-tomcat-8.5.78<br>
 # 3. DB 구조 / 구성
 # 4. Work-Flow
 # 5. 추가 설명 텍스트
